@@ -43,6 +43,11 @@ In order to launch this web application locally, you will need to have the follo
 
 ---
 
-#### Deployed Link
+#### Demo
 
-[coming soon...](#)
+<details>
+  <summary>Click for demo video</summary>
+
+![Budget Tracker Demo](./public/img/demo-gif.gif)
+
+</details>
