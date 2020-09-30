@@ -22,8 +22,12 @@ td, th {
   padding: 8px;
 }
 
-tr:nth-child(even) {
+tr:nth-child(odd) {
   background-color: #dddddd;
+}
+
+tr:nth-child(even) {
+  background-color: #8b8b8b;
 }
 
 .error {
@@ -39,7 +43,6 @@ tr:nth-child(even) {
 
 .total {
   font-size: 150%;
-  text-decoration: underline;
 }
 
 .form {
@@ -57,4 +60,12 @@ tr:nth-child(even) {
 
 .text {
   color: white;
+}
+
+#total {
+  color: rgb(72, 185, 72);
+}
+
+.dollah {
+  color: rgb(72, 185, 72);
 }
